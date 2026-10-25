@@ -2,4 +2,9 @@
 *.exe
 output/
 __pycache__/
+*.py[cod]
+.venv/
+.venv-1/
 .env
+.vercel/
+.pytest_cache/
